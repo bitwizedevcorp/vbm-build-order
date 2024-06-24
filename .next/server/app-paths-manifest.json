@@ -1,0 +1,20 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/deliveryReception/route": "app/api/deliveryReception/route.js",
+  "/api/finishDeliveryPallet/[id]/route": "app/api/finishDeliveryPallet/[id]/route.js",
+  "/api/finishDeliverPallet/[id]/route": "app/api/finishDeliverPallet/[id]/route.js",
+  "/api/finishOrder/[idorder]/route": "app/api/finishOrder/[idorder]/route.js",
+  "/api/getClientWithSixState/route": "app/api/getClientWithSixState/route.js",
+  "/api/getDeliveryPallet/[idorden_idpunnet]/route": "app/api/getDeliveryPallet/[idorden_idpunnet]/route.js",
+  "/api/finsihOrder/[idOrderDetail]/route": "app/api/finsihOrder/[idOrderDetail]/route.js",
+  "/api/getOrderDetail/[id]/route": "app/api/getOrderDetail/[id]/route.js",
+  "/api/getProductWeight/[product]/route": "app/api/getProductWeight/[product]/route.js",
+  "/api/getLines/route": "app/api/getLines/route.js",
+  "/api/getReceptionAsociadosOrder/[idorden_idpunnet]/route": "app/api/getReceptionAsociadosOrder/[idorden_idpunnet]/route.js",
+  "/api/updateDeliveryPalletState/[id]/route": "app/api/updateDeliveryPalletState/[id]/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/updateTbReceptionNo/route": "app/api/updateTbReceptionNo/route.js",
+  "/page": "app/page.js",
+  "/api/updateReceptionState/[id]/route": "app/api/updateReceptionState/[id]/route.js",
+  "/api/updateTbReceptionYes/route": "app/api/updateTbReceptionYes/route.js"
+}
